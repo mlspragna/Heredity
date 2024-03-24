@@ -24,16 +24,9 @@ python heredity.py data.csv
 
 Replace `data.csv` with the path to your input data file.
 
-## Contributors
-
-- [Your Name]
 
 ## Course Information
 
 - Course: "cs50's Introduction to AI"
 - University: Harvard University
 - Platform: edX
-
-## License
-
-This project is licensed under the [LICENSE NAME] License - see the [LICENSE.md](LICENSE.md) file for details.
